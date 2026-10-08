@@ -1,0 +1,4 @@
+# Relaxed on request: allow package versions published within the last 24 hours.
+# pnpm's default minimumReleaseAge (1440 minutes) blocked recent rollup, electron-to-chromium
+# and node-releases releases in CI. Set back to the default to restore that protection.
+minimumReleaseAge: 0
