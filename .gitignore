@@ -1,0 +1,8 @@
+# Written by Sparkbox. Dependencies and build output are reinstalled, not kept.
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+.pnpm-store/
+.sparkbox/

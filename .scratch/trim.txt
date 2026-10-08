@@ -1,0 +1,2 @@
+stops 252 kinds 8 routes 52 segs 1322
+subway Blue, train UP-W, subway Green, bus 85, bus 91, bus 86, bus 66, bus 70, bus 126, bus 90, bus N66, bus 307, bus 309, bus 311, bus 313, bus 318, bus 314, bus 315, bus 7, bus 12, bus 20, bus N20
