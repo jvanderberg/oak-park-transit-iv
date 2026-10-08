@@ -1,0 +1,1 @@
+fatal: 'ls-remote' is not a git command Sparkbox supports. Available: status, add, rm, commit, log, diff, show, branch, checkout, switch, restore, reset, merge, remote, fetch, pull, push, tag, rev-parse, config, init.
