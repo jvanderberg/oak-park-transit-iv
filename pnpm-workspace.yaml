@@ -2,3 +2,6 @@
 # pnpm's default minimumReleaseAge (1440 minutes) blocked recent rollup, electron-to-chromium
 # and node-releases releases in CI. Set back to the default to restore that protection.
 minimumReleaseAge: 0
+# Allow only esbuild's install script (Vite's bundler needs its native binary). Other install scripts stay blocked.
+onlyBuiltDependencies:
+  - esbuild
