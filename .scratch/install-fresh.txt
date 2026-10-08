@@ -1,9 +1,5 @@
 Progress: resolved 1, reused 0, downloaded 0, added 0
-Progress: resolved 16, reused 0, downloaded 0, added 0
-Progress: resolved 52, reused 0, downloaded 0, added 0
-Progress: resolved 89, reused 0, downloaded 0, added 0
-Progress: resolved 136, reused 0, downloaded 0, added 0
-Progress: resolved 177, reused 0, downloaded 0, added 0
+Progress: resolved 22, reused 0, downloaded 0, added 0
  WARN  Issues with peer dependencies found
 .
 └─┬ react-leaflet 4.2.1
@@ -24,4 +20,4 @@ Progress: resolved 188, reused 0, downloaded 0, added 0, done
 │   to run scripts.                                                            │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
-Done in 9.3s using pnpm v10.34.5
+Done in 5.3s using pnpm v10.34.5

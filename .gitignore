@@ -6,3 +6,4 @@ coverage/
 .cache/
 .pnpm-store/
 .sparkbox/
+.scratch/
