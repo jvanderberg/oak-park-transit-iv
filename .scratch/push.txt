@@ -1,1 +1,1 @@
-fatal: Not found: (detached).
+Pushed main to origin.
